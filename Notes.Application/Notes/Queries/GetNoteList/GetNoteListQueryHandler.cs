@@ -4,7 +4,6 @@ using MediatR;
 using Microsoft.EntityFrameworkCore;
 using Notes.Application.Interfaces;
 using Notes.Application.Notes.Queries.GetNodeList;
-using Notes.Application.Notes.Queries.GetNoteDetails;
 
 namespace Notes.Application.Notes.Queries.GetNoteList
 {
