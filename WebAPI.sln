@@ -15,7 +15,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Notes.Domain", "Notes.Domai
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Notes.Application", "Notes.Application\Notes.Application.csproj", "{ABB0660E-754F-4F34-BFF2-5ECD2369B269}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Notes.Presistence", "Notes.Presistence\Notes.Presistence.csproj", "{6A34E606-46D3-42EA-A335-236EF58B6AE6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Notes.Persistence", "Notes.Presistence\Notes.Persistence.csproj", "{6A34E606-46D3-42EA-A335-236EF58B6AE6}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Notes.WebApi", "Notes.WebApi\Notes.WebApi.csproj", "{B60A676B-F158-4050-BD96-748D0F2D344C}"
 EndProject

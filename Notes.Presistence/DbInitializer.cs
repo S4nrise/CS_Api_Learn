@@ -1,4 +1,4 @@
-﻿namespace Notes.Presistence
+﻿namespace Notes.Persistence
 {
     //Проверяет создана ли база данных. Если нет, она будет создана на основе контекста
     public class DbInitializer

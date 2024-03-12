@@ -1,14 +1,9 @@
 ﻿using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Configuration;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using Notes.Application.Interfaces;
 using Microsoft.EntityFrameworkCore;
 
-namespace Notes.Presistence
+namespace Notes.Persistence
 {
     public static class DependencyInjection
     {
