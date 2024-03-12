@@ -31,7 +31,7 @@ namespace Notes.WebApi
             Host.CreateDefaultBuilder(args)
                 .ConfigureWebHostDefaults(webBuilder =>
                 {
-                    webBuilder.UseStartup<Startup>(); //fix
+                    webBuilder.UseStartup<Startup>();
                 });
     }
 }
